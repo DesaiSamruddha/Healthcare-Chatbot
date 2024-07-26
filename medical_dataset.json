@@ -1,0 +1,36 @@
+{
+    "symptoms_to_diseases": {
+      "fever": ["common cold", "flu"],
+      "headache": ["migraine", "tension headache"],
+      "cough": ["bronchitis", "pneumonia"],
+      "cold": ["common cold", "allergic rhinitis"],
+      "flu": ["influenza", "common cold"],
+      "diabetes": ["type 1 diabetes", "type 2 diabetes"],
+      "hypertension": ["high blood pressure"],
+      "asthma": ["bronchial asthma"],
+      "strep throat": ["streptococcal pharyngitis"],
+      "sore throat": ["pharyngitis", "tonsillitis"],
+      "pain": ["fibromyalgia", "arthritis"],
+      "fatigue": ["chronic fatigue syndrome", "anemia"]
+    },
+    "diseases_to_medicines": {
+      "common cold": ["Paracetamol", "Rest"],
+      "flu": ["Oseltamivir", "Rest"],
+      "migraine": ["Ibuprofen", "Sumatriptan"],
+      "tension headache": ["Aspirin", "Ibuprofen"],
+      "bronchitis": ["Antibiotics", "Cough syrup"],
+      "pneumonia": ["Antibiotics", "Rest"],
+      "type 1 diabetes": ["Insulin"],
+      "type 2 diabetes": ["Metformin", "Lifestyle changes"],
+      "high blood pressure": ["Amlodipine", "Lifestyle changes"],
+      "bronchial asthma": ["Inhalers", "Corticosteroids"],
+      "streptococcal pharyngitis": ["Antibiotics"],
+      "pharyngitis": ["Lozenges", "Pain relievers"],
+      "tonsillitis": ["Antibiotics", "Pain relievers"],
+      "fibromyalgia": ["Pain relievers", "Antidepressants"],
+      "arthritis": ["NSAIDs", "Pain relievers"],
+      "chronic fatigue syndrome": ["Antidepressants", "Pain relievers"],
+      "anemia": ["Iron supplements", "Vitamin B12"]
+    }
+  }
+  

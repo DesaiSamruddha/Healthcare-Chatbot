@@ -1,0 +1,10 @@
+fever
+headache
+flu
+cold
+cough
+strep throat
+tonsillitis
+diabetes
+hypertension
+asthma
